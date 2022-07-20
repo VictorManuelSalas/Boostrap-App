@@ -4,7 +4,7 @@ import { FaUser, FaSearch } from "react-icons/fa";
 
 const Formulario = () => {
     return (
-        <div className="container">
+        <div className="container pb-5">
             <h4 className="mt-3 mb-3"><FaUser /> Crear Usuario</h4>
 
             <form>
